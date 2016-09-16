@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Slot Info", "Slot Info\Slot Info.vcxproj", "{BE76476D-9956-4949-B3EF-52CFB2AFC05C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE76476D-9956-4949-B3EF-52CFB2AFC05C}.Debug|Win32.ActiveCfg = Release|Win32
+		{BE76476D-9956-4949-B3EF-52CFB2AFC05C}.Debug|Win32.Build.0 = Release|Win32
+		{BE76476D-9956-4949-B3EF-52CFB2AFC05C}.Release|Win32.ActiveCfg = Release|Win32
+		{BE76476D-9956-4949-B3EF-52CFB2AFC05C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
