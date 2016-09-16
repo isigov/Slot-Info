@@ -1,4 +1,4 @@
-TinyKick 0.3 Beta
+#TinyKick 0.3 Beta
 
 TinyKick is a custom kick tool for Warcraft 3 TFT 1.26.
 A custom kick tool allows for the host of a game to kick other players out of the game. 
